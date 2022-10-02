@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-24,
+				-197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Trojan Ron Idle"
+		},
+		{
+			"offsets": [
+				173,
+				-401
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Trojan Ron Left"
+		},
+		{
+			"offsets": [
+				-216,
+				-391
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Trojan Ron Right"
+		},
+		{
+			"offsets": [
+				38,
+				-461
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Trojan Ron Down"
+		},
+		{
+			"offsets": [
+				-7,
+				-371
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Trojan Ron Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Trojan_Ron",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tronjan virus",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		216,
+		0
+	],
+	"camera_position": [
+		0,
+		180
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,31 @@
+{
+	"storyName": "ron",
+	"difficulties": "Hard,Dev",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"trojan-virus",
+			"tronjan virus",
+			[
+				255,
+				216,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"ron",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

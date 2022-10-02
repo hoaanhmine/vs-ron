@@ -1,0 +1,67 @@
+{
+	"storyName": "freeplay",
+	"difficulties": "Hard,Dev",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bloodbath",
+			"ron bloodbath",
+			[
+				131,
+				52,
+				52
+			]
+		],
+		[
+			"bijuu",
+			"bijuu",
+			[
+				255,
+				216,
+				0
+			]
+		],
+		[
+			"holy-shit-dave-fnf",
+			"holy dave",
+			[
+				15,
+				95,
+				255
+			]
+		],
+		[
+			"pretty-wacky",
+			"douyhe",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"bleeding",
+			"ron bloodshed",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"ron",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

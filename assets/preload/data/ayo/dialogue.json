@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GRRRRRR GRRRR GRRRRRRRRRR"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stay mad Lol Lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IMA MAKE YOU EAT THOSE WORDS"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ill make you eat deez nuts"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "madron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "stfu"
+		}
+	]
+}

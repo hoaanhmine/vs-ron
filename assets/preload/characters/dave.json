@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-60,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-47,
+				-159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-66,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-43,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-56,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-68,
+				-154
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "uhhh",
+			"loop": false,
+			"name": "um"
+		},
+		{
+			"offsets": [
+				-68,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "errm",
+			"loop": false,
+			"name": "err"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dave_sheet",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "holy dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		95,
+		255
+	],
+	"camera_position": [
+		0,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

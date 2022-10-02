@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idlenormal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rightnormal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				-15
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downnormal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				128
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upnormal",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "leftnormal",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hellron",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "ron bloodshed",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

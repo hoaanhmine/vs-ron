@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Boyfriend from Friday night Funkin"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wtf who are you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I am douyhe"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what kinda pissy name is that smh ratio + major L + dummy dum dum"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "No"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Im douyhe,not bf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.005,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hi, FNM server. I am VoidGuy, and I came here to look for help on my new mod. Presenting FRIDAY NIGHT FUNKIN: EXPANDED! This mod will feature 800 NEW WEEKS, featuring old and new characters, totalling up to 2400 SONGS! (Don't worry, l'll make those). We're also adding a brand new original mechanic for each new week, which means there's 800 MECHANICS in this one mod! That's crazy, right? We're also going to add a hub world, a mission system and 500+ ACHIEVEMENTS for you to collect, all on a brand new engine made specifically for the mod! Do you like how I talk? Do you like how I walk? Do you like how my face disintegrates into chalk?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "scared",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "douyhe",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Three days"
+		}
+	]
+}

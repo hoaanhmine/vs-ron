@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "GR GGRRR GRR GR GRRRRR GRGRGRGRGGR GRAGRFDASFA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "hellron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHUT YOU S TINKY MOUTH YOU MADE ME SAD NOW I WILL END YOU R LIFE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "o'k :("
+		}
+	]
+}

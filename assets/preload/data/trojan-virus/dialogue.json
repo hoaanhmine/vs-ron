@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yooooo,wassup again poo poo man"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "why are you here again"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cuz of you posted a video of us fighting on yt"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i hate u for that and i want you to spontaneously combust"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh ok"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "btw,tf are you glowing"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i entered a site and it gave me a ad on how to gain power 2022 no clickbait(working)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "don't you think that's a bit sus"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "idk but it seems to be working"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "poweron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "anyways i pull up mf get ready for ur world to be rocked"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alr then"
+		}
+	]
+}
